@@ -2,4 +2,4 @@
 Refer to the following blog post for details: 
 
 ### Prerequisites:
-- Requires Geneformer ([Link]([url](https://geneformer.readthedocs.io/en/latest/about.html)))
+- Requires Geneformer ([Link](https://geneformer.readthedocs.io/en/latest/about.html))
